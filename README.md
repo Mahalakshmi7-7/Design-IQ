@@ -1,6 +1,6 @@
-# 🎨 DesignIQ AI – Intelligent Design Assistant
+# 🎨 DesignIQ – Intelligent Design Assistant
 
-DesignIQ AI is a smart, interactive design assistant that helps users generate **Logo designs, UI/UX designs, and poster designs decisions** based on their project needs.  
+DesignIQ is a smart, interactive design assistant that helps users generate **Logo designs, UI/UX designs, and poster designs decisions** based on their project needs.  
 From color palettes to typography suggestions, this tool translates ideas into **design-ready direction**.
 
 Built using **HTML, CSS, and JavaScript**, this project focuses on creativity, logic, and clean UI — no heavy frameworks, just pure front-end power.
@@ -9,7 +9,7 @@ Built using **HTML, CSS, and JavaScript**, this project focuses on creativity, l
 
 ## 🚀 What This Project Does
 
-DesignIQ AI asks users a set of intelligent questions such as:
+DesignIQ asks users a set of intelligent questions such as:
 - What type of website are you building?
 - What mood or vibe are you aiming for?
 - Who is your target audience?
